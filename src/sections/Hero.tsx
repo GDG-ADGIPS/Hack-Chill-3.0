@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { ArrowRight, MessageCircle, Clock, Users, Sparkles, Star } from 'lucide-react';
+import { ArrowRight, Clock, Users, Sparkles, Star } from 'lucide-react';
 
 const Hero = () => {
   useEffect(() => {
