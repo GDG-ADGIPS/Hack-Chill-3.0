@@ -275,7 +275,7 @@ function AboutSection() {
 function StatsBar() {
   const stats = [
     { number: '500+', label: 'REGISTRATIONS', bg: 'bg-peach', text: 'text-navy' },
-    { number: '₹1.5L+', label: 'PRIZE POOL', bg: 'bg-navy', text: 'text-white', hasDiamonds: true },
+    { number: '₹1.0L+', label: 'PRIZE POOL', bg: 'bg-navy', text: 'text-white', hasDiamonds: true },
     { number: '36', label: 'HRS OF HACKING', bg: 'bg-navy', text: 'text-white', subNumber: 'HRS' },
     { number: '4', label: 'TRACKS TO COMPETE', bg: 'bg-teal', text: 'text-navy', subNumber: 'TRACKS' },
   ];
@@ -498,9 +498,9 @@ function TimelineSection() {
 // Prizes Section
 function PrizesSection() {
   const generalPrizes = [
-    { place: '1ST', label: 'WINNER CASH', amount: '₹50,000' },
-    { place: '2ND', label: 'RUNNER UP', amount: '₹30,000' },
-    { place: '3RD', label: 'SECOND RUNNER', amount: '₹20,000' },
+    { place: '1ST', label: 'WINNER CASH', amount: 'Revealing Soon' },
+    { place: '2ND', label: 'RUNNER UP', amount: 'Revealing Soon' },
+    { place: '3RD', label: 'SECOND RUNNER', amount: 'Revealing Soon' },
   ];
 
   const aiTracks = [
