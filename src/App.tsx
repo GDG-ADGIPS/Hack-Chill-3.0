@@ -18,16 +18,16 @@ import Photo8 from './assets/HC1/Photo8.JPG';
 import Photo9 from './assets/HC1/Photo9.JPG';
 import Photo10 from './assets/HC1/Photo10.JPG';
 
-import HC1 from './assets/HC2/Photo1.JPG';
-import HC2 from './assets/HC2/Photo2.JPG';
-import HC3 from './assets/HC2/Photo3.JPG';
-import HC4 from './assets/HC2/Photo4.JPG';
-import HC5 from './assets/HC2/Photo5.JPG';
-import HC6 from './assets/HC2/Photo6.JPG';
-import HC7 from './assets/HC2/Photo7.JPG';
-import HC8 from './assets/HC2/Photo8.JPG';
-import HC9 from './assets/HC2/Photo9.JPG';
-import HC10 from './assets/HC2/Photo10.JPG';
+import HC1 from './assets/HC2/Photo1.jpg';
+import HC2 from './assets/HC2/Photo2.jpg';
+import HC3 from './assets/HC2/Photo3.jpg';
+import HC4 from './assets/HC2/Photo4.jpg';
+import HC5 from './assets/HC2/Photo5.jpg';
+import HC6 from './assets/HC2/Photo6.jpg';
+import HC7 from './assets/HC2/Photo7.jpg';
+import HC8 from './assets/HC2/Photo8.jpg';
+import HC9 from './assets/HC2/Photo9.jpg';
+import HC10 from './assets/HC2/Photo10.jpg';
 
 interface CarouselSlide {
   src?: string;           // swap in real image URLs here
