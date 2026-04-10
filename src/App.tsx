@@ -1065,7 +1065,7 @@ function TeamSection() {
     {
       name: 'AMAN SHARMA',
       role: 'GENERAL SECRETARY',
-      photo: '/team_member_3.jpg',
+      photo: '/team_member_3.jpeg',
       accent: 'border-lavender',
       accentText: 'text-lavender',
       accentBg: 'bg-lavender',
